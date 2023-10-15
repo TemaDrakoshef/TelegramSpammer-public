@@ -1,1 +1,1 @@
-# TelegramSpammer-public
+# See releases page
